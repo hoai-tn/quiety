@@ -25,7 +25,6 @@
             <router-link to="/news-details">
               <div class="digi-blog-thumb">
                 <img
-                  src="@//assets/img/blog/d-blog-1.jpg"
                   class="img-fluid w-100 rounded-top"
                   alt="Person"
                 />
@@ -59,7 +58,6 @@
             <router-link to="/news-details">
               <div class="digi-blog-thumb">
                 <img
-                  src="@//assets/img/blog/d-blog-2.jpg"
                   class="img-fluid w-100 rounded-top"
                   alt="Person"
                 />

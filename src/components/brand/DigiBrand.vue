@@ -14,7 +14,6 @@
                 <div class="swiper-slide">
                   <div class="single-logo">
                     <img
-                      src="@/assets/img/brand-logo/google.svg"
                       class="img-fluid"
                       height="30"
                       alt="logo"
@@ -24,7 +23,6 @@
                 <div class="swiper-slide">
                   <div class="single-logo">
                     <img
-                      src="@/assets/img/brand-logo/facebook.svg"
                       class="img-fluid"
                       alt="logo"
                       height="30"
@@ -34,7 +32,6 @@
                 <div class="swiper-slide">
                   <div class="single-logo">
                     <img
-                      src="@/assets/img/brand-logo/youtube.svg"
                       class="img-fluid"
                       alt="logo"
                       height="30"
@@ -44,7 +41,6 @@
                 <div class="swiper-slide">
                   <div class="single-logo">
                     <img
-                      src="@/assets/img/brand-logo/printerest.svg"
                       class="img-fluid"
                       alt="logo"
                       height="30"
@@ -54,7 +50,6 @@
                 <div class="swiper-slide">
                   <div class="single-logo">
                     <img
-                      src="@/assets/img/brand-logo/webflow.svg"
                       class="img-fluid"
                       alt="logo"
                       height="30"
@@ -64,7 +59,6 @@
                 <div class="swiper-slide">
                   <div class="single-logo">
                     <img
-                      src="@/assets/img/brand-logo/company.svg"
                       class="img-fluid"
                       alt="logo"
                       height="30"

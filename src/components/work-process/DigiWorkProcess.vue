@@ -40,7 +40,6 @@
                 >
                   <div class="me-3">
                     <img
-                      src="@/assets/img/icons/st-1.png"
                       class="img-fluid mb-3 mb-md-0"
                       alt="icons"
                     />
@@ -59,7 +58,6 @@
                 >
                   <div class="me-3">
                     <img
-                      src="@/assets/img/icons/st-2.png"
                       class="img-fluid mb-3 mb-md-0"
                       alt="icons"
                     />
@@ -78,7 +76,6 @@
                 >
                   <div class="me-3">
                     <img
-                      src="@/assets/img/icons/st-3.png"
                       class="img-fluid mb-3 mb-md-0"
                       alt="icons"
                     />
